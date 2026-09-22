@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "204c6a9d945870f2a5f8397b",
+  "owner": "kjcpyecst",
+  "repo": "page-cab2653bb4d58cc75a227516",
+  "title": "小麦加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cab2653bb4d58cc75a227516",
+      "a": "小麦加速",
+      "b": "稳定全球clash加速器",
+      "entity": "小麦加速",
+      "brand": "小麦加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2227b85de6e5422f1258af6c39f769e565fca8aae2e0b7a0716db2c1f7305c47",
+      "content": {
+        "primary_entity": "小麦加速",
+        "keyword1": "小麦加速",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，再导入小麦加速订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "轻松配置",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供实用内容。",
+          "AI_FEATURES_INTRO": "从流量需求与设备数量出发，挑选合适的订阅周期。",
+          "AI_FEATURES_TITLE": "小麦加速特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合轻度使用，旗舰版300GB满足日常多设备，团队版1000GB应对多人大流量。",
+          "AI_FEATURE_TEXT_2": "在线设备数从3台到20台不等，个人可选基础或旗舰，团队协作直接选团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版年付¥150，旗舰版年付¥350，团队版年付¥850。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TITLE_2": "按设备定套餐",
+          "AI_FEATURE_TITLE_3": "周期灵活可选",
+          "AI_GUIDE_INTRO": "三步完成订阅导入与客户端配置。",
+          "AI_GUIDE_TITLE": "使用指引",
+          "AI_HERO_INTRO": "小麦加速提供多种套餐，覆盖基础浏览、流媒体与游戏加速场景。根据日常流量和设备数量选择版本，搭配对应客户端即可使用稳定订阅服务。",
+          "AI_HERO_SUBTITLE": "多版本套餐，匹配设备需求",
+          "AI_HIGHLIGHT_1": "基础版月付¥15，享100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备与定制路由",
+          "AI_PLANS_INTRO": "基础版适合单人轻量，旗舰版解锁全节点流媒体，团队版提供VIP高带宽节点。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量需求和在线设备数量，在基础版、旗舰版、团队版中选择对应套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量与线路适配要求，确认客户端系统是否满足。",
+          "AI_STEP_TEXT_3": "参考所选客户端的订阅导入文档，填入小麦加速订阅信息完成配置。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "小麦加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合日常浏览与基础流媒体；旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线游戏加速优化，更适合游戏和多设备用户。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线。若日常手机、电脑、平板三件套使用，基础版够用；有游戏主机或家人共用，建议旗舰版以上。",
+          "AI_FAQ_ANSWER_3": "支持按月和按年付费。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，相比月付分别相当于省下两个月费用，长期使用建议直接选年付。",
+          "AI_FAQ_ANSWER_4": "普通线路节点池覆盖日常浏览与视频；旗舰版及团队版提供 IPLC 专线与 VIP 高带宽节点，对延迟敏感的游戏和实时会议场景更友好，可按自身用途选择。",
+          "AI_FAQ_ANSWER_5": "一般流程是购买套餐后，在用户中心获取订阅链接，再导入对应客户端。各系统客户端操作不同，可参考客户端自带文档或用户中心提供的基础配置说明。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "套餐允许几台设备同时使用？",
+          "AI_FAQ_QUESTION_3": "按月付还是按年付更划算？",
+          "AI_FAQ_QUESTION_4": "IPLC 专线适合什么场景？",
+          "AI_FAQ_QUESTION_5": "购买后怎样配置订阅？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pbbqz.cn",
+    "host": "pbbqz.cn"
+  },
+  "file_hashes": {
+    "index.html": "8b70ea40e497c5508950cf82d6343e5e6f266d239b0b5d87459b5270d777bc1b",
+    "sitemap.xml": "dd750e8a298b4b0e864e482d0f6ffcfd29c008e73375c7ac418a878684aeda9c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b19249404ffddaced364ccc3a3313fdefa157d3d15e8a4de27e44782e7652bd8",
+    "robots.txt": "20911de9e779f43ce572b1753d2bb372df9ab38d428d30d5ec698624a56f3d18",
+    "86a13bac2dd6b464ec48e0d2d6f1ca29.txt": "576b77316def79eef6a354a5d2bc5a64d61347971f2f1422224cc64d669ca3ba"
+  },
+  "revision": "f5057a2dabeac988af15d1776a95e08fbe5b15fec9724d07bc7399d3d948d659"
+}
